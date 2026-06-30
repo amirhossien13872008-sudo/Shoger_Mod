@@ -1,1 +1,1 @@
-# Shoger_Mod
+print("Welcome to ShogerMod🌈)
